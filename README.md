@@ -78,7 +78,6 @@ I'm Ömer, Fullstack developer from  Istanbul, Turkey
 <br/>  
 
 
-## Recent Blog Posts  
   
 
 <br/>  
