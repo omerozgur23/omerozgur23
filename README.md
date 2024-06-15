@@ -22,7 +22,7 @@
 <br/>  
 
 
-## Rapidfire  
+## 
 <table><tr><td valign="top" width="50%">
 
 - 📨 How to reach me omerozgur23@gmail.com  
